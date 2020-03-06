@@ -160,14 +160,19 @@ export default {
   }
 }
 </script>
-<style scoped>
+<style lang="scss" scoped>
+
 .sc-chat-window {
-  width: 370px;
-  height: calc(100% - 120px);
+  //width: 370px;
+  width: 60%;
+  //height: calc(100% - 120px);
+  height: 80%;
   max-height: 590px;
   position: fixed;
-  right: 25px;
-  bottom: 100px;
+  //right: 25px;
+  right: 20%;
+  //bottom: 100px;
+  bottom: 25%;
   box-sizing: border-box;
   box-shadow: 0px 7px 40px 2px rgba(148, 149, 150, 0.1);
   background: white;

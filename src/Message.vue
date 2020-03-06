@@ -109,7 +109,8 @@ export default {
 </script>
 <style lang="scss">
 .sc-message {
-  width: 300px;
+  //width: 300px;
+  width: 75%;
   margin: auto;
   padding-bottom: 10px;
   display: flex;
@@ -166,7 +167,8 @@ export default {
   padding: 5px 20px;
   border-radius: 6px;
   font-weight: 300;
-  font-size: 14px;
+  //font-size: 14px;
+  font-size: 15px;
   line-height: 1.4;
   position: relative;
   -webkit-font-smoothing: subpixel-antialiased;
