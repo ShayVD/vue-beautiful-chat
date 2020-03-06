@@ -77,6 +77,7 @@ export default {
 }
 
 .sc-header--img {
+  width: 75px;
   border-radius: 50%;
   align-self: center;
   padding: 10px;

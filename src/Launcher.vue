@@ -111,7 +111,7 @@ export default {
     },
     title: {
       type: String,
-      default: () => ''
+      default: () => 'Website Maintenance Assistant'
     },
     titleImageUrl: {
       type: String,
